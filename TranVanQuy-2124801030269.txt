@@ -1,1 +1,1 @@
-Link github: 
+Link github: https://github.com/vanquy-cmd/QLND.git
